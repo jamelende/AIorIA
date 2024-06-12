@@ -18,6 +18,8 @@ Artificial Intelligence 2024
 
 [La historia de OpenAI y ChatGpt](https://es.wired.com/articulos/openai-y-todos-los-lideres-en-inteligencia-artificial)
 
+[Artículos de Steven Levy (Wired)](https://es.wired.com/autor/steven-levy)
+
 # Chat Bots
 
 [All gpt ChatBots](https://chatgpt.com/gpts)
