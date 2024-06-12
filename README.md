@@ -41,6 +41,8 @@ Excelentes
 
 ## Geoffrey Hinton
 
+[Geoffrey Hinton | On working with Ilya, choosing problems, and the power of intuition](https://www.youtube.com/watch?v=n4IQOBka8bc)
+
 [6 years ago, ignoring name of the field!!!](https://www.youtube.com/watch?v=zl99IZvW7rE&t=300s)
 
 
