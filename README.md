@@ -12,6 +12,8 @@ Artificial Intelligence 2024
 
 # Chat Bots
 
+[All gpt ChatBots](https://chatgpt.com/gpts)
+
 [Network Scientist](https://chatgpt.com/g/g-b9jJ0UMWz-network-scientist)
 
 [Network Science Expert (Neo4j)](https://chatgpt.com/g/g-Nh3ejxF3x-neo4j-and-network-science-expert)
