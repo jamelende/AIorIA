@@ -30,10 +30,17 @@ Artificial Intelligence 2024
 [6 years ago, ignoring name of the field!!!](https://www.youtube.com/watch?v=zl99IZvW7rE&t=300s)
 
 
+# Simulations
+
+[OutBreak](http://www.r2d3.us/covid-19/)
+
+[Making Sernse of covid 19](http://www.r2d3.us/covid-19/)
+
+[Going Critical](https://meltingasphalt.com/interactive/going-critical/)
+
 
 # Articles
 
-[Making Sernse of covid 19](http://www.r2d3.us/covid-19/)
 
 [Mitch Resnick AI and Education](https://mit-genai.pubpub.org/pub/gj6eod3e/release/2?from=10915&to=11045)
 
