@@ -18,6 +18,8 @@ Artificial Intelligence 2024
 
 [La historia de OpenAI y ChatGpt](https://es.wired.com/articulos/openai-y-todos-los-lideres-en-inteligencia-artificial)
 
+[Historia de Attention is all you need](https://es.wired.com/articulos/como-ocho-empleados-de-google-inventaron-la-inteligencia-artificial-moderna)
+
 [Artículos de Steven Levy (Wired)](https://es.wired.com/autor/steven-levy)
 
 # Chat Bots
