@@ -13,6 +13,8 @@ Artificial Intelligence 2024
 
 [Mcculloch, Centralities](https://www.youtube.com/watch?v=iiVeQkIELyc)
 
+[Betweenness centrality well explained](https://www.youtube.com/watch?v=gOAG507pi14)
+
 
 # Videos
 
