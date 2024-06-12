@@ -11,6 +11,9 @@ Artificial Intelligence 2024
 
 
 # Videos
+
+[Mustafa Suleyman, What is the AI anyway](https://youtu.be/KKNCiRWd_j0?si=OaIpZtLs_KBnaBM-)
+
 [Francois Chollet LLMs wont lead to AGI](https://www.youtube.com/watch?v=UakqL6Pj9xo&t=840s)
 
 [3Blue1Brown Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M&t=187s)
