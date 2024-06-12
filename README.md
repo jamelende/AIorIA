@@ -11,6 +11,8 @@ Artificial Intelligence 2024
 
 [Clauset, the trouble with community detection](https://www.youtube.com/watch?v=cWFhxiRmHPo)
 
+[Mcculloch, Centralities](https://www.youtube.com/watch?v=iiVeQkIELyc)
+
 
 # Videos
 
