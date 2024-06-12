@@ -9,6 +9,8 @@ Artificial Intelligence 2024
 
 [Network analysis  Dow Jones](https://www.youtube.com/watch?v=x6PNcuZk83g)
 
+[Clauset, the trouble with community detection](https://www.youtube.com/watch?v=cWFhxiRmHPo)
+
 
 # Videos
 
