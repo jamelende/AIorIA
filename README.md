@@ -4,6 +4,7 @@ Artificial Intelligence 2024
 # Graph Machine Learning
 
 Excelente
+
 [Leskovec, Graph Neural Netwoks and Generative AI](https://www.youtube.com/watch?v=kk6gARgR-d8&t=1204s)
 
 Excelente
