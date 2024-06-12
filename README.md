@@ -3,7 +3,7 @@ Artificial Intelligence 2024
 
 # Graph Machine Learning
 
-[Rappi]([https://jalammar.github.io/](https://www.youtube.com/watch?v=t_IC3_V2-98&t=1913s)
+[Rappi](https://www.youtube.com/watch?v=t_IC3_V2-98&t=1913s)
 
 
 # Videos
