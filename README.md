@@ -31,6 +31,8 @@ Artificial Intelligence 2024
 
 [Visualizing Machine Learning](https://jalammar.github.io/)
 
+[Du Santoy, La capacidad de jugar y no de pensar](https://www.bbc.com/mundo/articles/c6ppgkvdldwo)
+
 # Chat Bots
 
 [All gpt ChatBots](https://chatgpt.com/gpts)
