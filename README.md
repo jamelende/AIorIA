@@ -11,6 +11,11 @@ Excelentes
 
 Excelentes
 
+[Graph ML in 2024 Part 1 Michael Bronstein](https://towardsdatascience.com/graph-geometric-ml-in-2024-where-we-are-and-whats-next-part-i-theory-architectures-3af5d38376e1#79aa)
+[Graph ML in 2024 Part 2 Michael Bronstein](https://towardsdatascience.com/graph-geometric-ml-in-2024-where-we-are-and-whats-next-part-ii-applications-1ed786f7bf63)
+
+
+
 [Leskovec, Advancements in GNN](https://www.youtube.com/watch?v=oWurWiToUko&t=373s)
 
 [The Witcher Network, GitHub](https://github.com/thu-vu92/the_witcher_network)
