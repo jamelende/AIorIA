@@ -17,6 +17,8 @@ Excelentes
 
 [Rappi](https://www.youtube.com/watch?v=t_IC3_V2-98&t=1913s)
 
+[UberEats, Food Recommnedation](https://www.youtube.com/watch?v=9O9osybNvyY)
+
 [Network analysis  Dow Jones](https://www.youtube.com/watch?v=x6PNcuZk83g)
 
 [Clauset, the trouble with community detection](https://www.youtube.com/watch?v=cWFhxiRmHPo)
