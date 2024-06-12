@@ -62,6 +62,8 @@ Excelentes
 
 # Articles
 
+[AI trends in 2024: Graph Neural Networks](https://www.assemblyai.com/blog/ai-trends-graph-neural-networks/)
+
 [Food Discovery with UberEats](https://www.uber.com/en-CO/blog/uber-eats-graph-learning/)
 
 
