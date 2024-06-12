@@ -3,6 +3,11 @@ Artificial Intelligence 2024
 
 # Graph Machine Learning
 
+Excelente
+[Leskovec, Graph Neural Netwoks and Generative AI](https://www.youtube.com/watch?v=kk6gARgR-d8&t=1204s)
+
+Excelente
+
 [The Witcher Network, GitHub](https://github.com/thu-vu92/the_witcher_network)
 
 [Rappi](https://www.youtube.com/watch?v=t_IC3_V2-98&t=1913s)
