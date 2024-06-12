@@ -51,6 +51,8 @@ Excelentes
 
 # Articles
 
+[Food Discovery with UberEats](https://www.uber.com/en-CO/blog/uber-eats-graph-learning/)
+
 
 [Mitch Resnick AI and Education](https://mit-genai.pubpub.org/pub/gj6eod3e/release/2?from=10915&to=11045)
 
