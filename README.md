@@ -1,6 +1,11 @@
 # AIorIA
 Artificial Intelligence 2024
 
+# Graph Machine Learning
+
+[Rappi]([https://jalammar.github.io/](https://www.youtube.com/watch?v=t_IC3_V2-98&t=1913s)
+
+
 # Videos
 [Francois Chollet LLMs wont lead to AGI](https://www.youtube.com/watch?v=UakqL6Pj9xo&t=840s)
 
