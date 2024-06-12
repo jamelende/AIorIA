@@ -4,7 +4,7 @@ Artificial Intelligence 2024
 # Videos
 [Francois Chollet LLMs wont lead to AGI](https://www.youtube.com/watch?v=UakqL6Pj9xo&t=840s)
 
-[3Blue1Brown Transformers](https://es.wired.com/articulos/como-ocho-empleados-de-google-inventaron-la-inteligencia-artificial-moderna)
+[3Blue1Brown Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M&t=187s)
 
 ## Geoffrey Hinton
 
