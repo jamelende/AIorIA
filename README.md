@@ -24,6 +24,8 @@ Artificial Intelligence 2024
 
 [Artículos de Steven Levy (Wired)](https://es.wired.com/autor/steven-levy)
 
+[Visualizing Machine Learning](https://jalammar.github.io/)
+
 # Chat Bots
 
 [All gpt ChatBots](https://chatgpt.com/gpts)
