@@ -7,7 +7,7 @@ Excelentes
 
 [Leskovec, Graph Neural Netwoks and Generative AI](https://www.youtube.com/watch?v=kk6gARgR-d8&t=1204s)
 
-[Seven applications of GNN]([https://www.youtube.com/watch?v=oWurWiToUko&t=373s](https://www.youtube.com/watch?v=9QH6jnwqrAk&t=44s)
+[Seven applications of GNN](https://www.youtube.com/watch?v=9QH6jnwqrAk&t=44s)
 
 Excelentes
 
