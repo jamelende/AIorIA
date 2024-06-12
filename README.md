@@ -9,6 +9,8 @@ Excelente
 
 Excelente
 
+[Leskovec, Advancements in GNN](https://www.youtube.com/watch?v=oWurWiToUko&t=373s)
+
 [The Witcher Network, GitHub](https://github.com/thu-vu92/the_witcher_network)
 
 [Rappi](https://www.youtube.com/watch?v=t_IC3_V2-98&t=1913s)
