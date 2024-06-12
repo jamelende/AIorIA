@@ -45,6 +45,11 @@ Excelentes
 
 [6 years ago, ignoring name of the field!!!](https://www.youtube.com/watch?v=zl99IZvW7rE&t=300s)
 
+[Bloomberg. This Canadian Genius Created Modern AI](https://www.youtube.com/watch?v=l9RWTMNnvi4)
+
+[Prof. Geoffrey Hinton - "Will digital intelligence replace biological intelligence?" Romanes Lecture](https://www.youtube.com/watch?v=N1TEjTeQeg0)
+
+
 
 # Simulations
 
